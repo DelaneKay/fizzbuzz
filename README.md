@@ -1,8 +1,9 @@
 # FizzBuzz
 
-Fizz Buzz is a Coding Challenge, a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+Fizz Buzz is a Coding Challenge, a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz". 
 
 Below are the basic steps for creating a React app named "Fizzbuzz." These steps include setting up a new React project, writing a simple FizzBuzz component, and running the app.
+
 ---
 
 ## Step 1: Create React App
