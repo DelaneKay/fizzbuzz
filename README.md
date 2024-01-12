@@ -13,7 +13,7 @@ cd fizzbuzz
 ```
 
 ## Step 2: Create FizzBuzz Component
-In the src directory, create a new file named `FizzBuzz.js`. Check the code code above.
+In the src directory, create a new file named `FizzBuzz.js`. Check the code above.
 
 ## Step 3: Use FizzBuzz Component in App
 Replace the content of src/App.js with the following:
